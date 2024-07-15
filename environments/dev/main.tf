@@ -1,4 +1,4 @@
 module "elb" {
-  source = "/home/bitcot/terraform-cloud/modules"
+  source = "github.com/saikiran-bitcot/terrafrom-cloud/modules"
 }
 
